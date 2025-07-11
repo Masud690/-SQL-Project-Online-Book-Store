@@ -40,9 +40,9 @@ To apply SQL for real-world data operations, focusing on:
 - Books with low stock or high demand
 - Authors with the most books sold
 
-## 📁 File Info
+## 📁 File Info:-[https://github.com/Masud690/-SQL-Project-Online-Book-Store/blob/main/content.pdf]
 
 - SQL queries documented in structured form
-- Categories: Basic & Advanced :-
+- Categories: Basic & Advanced 
 
 
